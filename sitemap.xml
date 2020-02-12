@@ -23,11 +23,6 @@
   </url>
   
   <url>
-    <loc>https://sneakersmexico.online/asics/</loc>
-    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://sneakersmexico.online/azules/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url>
@@ -49,11 +44,6 @@
   
   <url>
     <loc>https://sneakersmexico.online/blog/</loc>
-    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sneakersmexico.online/categories/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url>
   
@@ -173,11 +163,6 @@
   </url>
   
   <url>
-    <loc>https://sneakersmexico.online/categories/mujer/</loc>
-    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://sneakersmexico.online/naranjas/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url>
@@ -224,6 +209,11 @@
   
   <url>
     <loc>https://sneakersmexico.online/senderismo/</loc>
+    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sneakersmexico.online/sidi/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url>
   
@@ -325,6 +315,10 @@
   <url>
     <loc>https://sneakersmexico.online/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sneakersmexico.online/categories/</loc>
   </url>
   
 </urlset>
