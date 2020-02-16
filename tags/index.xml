@@ -6,7 +6,11 @@
     <description>Recent content in Tags on ¿Donde comprar sneakers?</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-mx</language>
+<<<<<<< HEAD
     <lastBuildDate>Sun, 16 Feb 2020 00:00:00 +0000</lastBuildDate>
+=======
+    <lastBuildDate>Sat, 15 Feb 2020 00:00:00 +0000</lastBuildDate>
+>>>>>>> 74008b07a0b48032092c17eb544a54afac6a33b3
     
 	<atom:link href="https://sneakersmexico.online/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +18,11 @@
     <item>
       <title>Azules</title>
       <link>https://sneakersmexico.online/azules/</link>
+<<<<<<< HEAD
       <pubDate>Sun, 16 Feb 2020 00:00:00 +0000</pubDate>
+=======
+      <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
+>>>>>>> 74008b07a0b48032092c17eb544a54afac6a33b3
       
       <guid>https://sneakersmexico.online/azules/</guid>
       <description></description>
@@ -23,7 +31,11 @@
     <item>
       <title>Baratos</title>
       <link>https://sneakersmexico.online/baratos/</link>
+<<<<<<< HEAD
       <pubDate>Sun, 16 Feb 2020 00:00:00 +0000</pubDate>
+=======
+      <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
+>>>>>>> 74008b07a0b48032092c17eb544a54afac6a33b3
       
       <guid>https://sneakersmexico.online/baratos/</guid>
       <description></description>
@@ -32,31 +44,48 @@
     <item>
       <title>Blancos</title>
       <link>https://sneakersmexico.online/blancos/</link>
+<<<<<<< HEAD
       <pubDate>Sun, 16 Feb 2020 00:00:00 +0000</pubDate>
+=======
+      <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
+>>>>>>> 74008b07a0b48032092c17eb544a54afac6a33b3
       
       <guid>https://sneakersmexico.online/blancos/</guid>
       <description></description>
     </item>
     
     <item>
+<<<<<<< HEAD
       <title>Grises</title>
       <link>https://sneakersmexico.online/grises/</link>
       <pubDate>Sun, 16 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>https://sneakersmexico.online/grises/</guid>
+=======
+      <title>Cafes</title>
+      <link>https://sneakersmexico.online/cafes/</link>
+      <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://sneakersmexico.online/cafes/</guid>
+>>>>>>> 74008b07a0b48032092c17eb544a54afac6a33b3
       <description></description>
     </item>
     
     <item>
       <title>Hombre</title>
       <link>https://sneakersmexico.online/hombre/</link>
+<<<<<<< HEAD
       <pubDate>Sun, 16 Feb 2020 00:00:00 +0000</pubDate>
+=======
+      <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
+>>>>>>> 74008b07a0b48032092c17eb544a54afac6a33b3
       
       <guid>https://sneakersmexico.online/hombre/</guid>
       <description></description>
     </item>
     
     <item>
+<<<<<<< HEAD
       <title>Negros</title>
       <link>https://sneakersmexico.online/negros/</link>
       <pubDate>Sun, 16 Feb 2020 00:00:00 +0000</pubDate>
@@ -89,33 +118,64 @@
       <pubDate>Sun, 16 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>https://sneakersmexico.online/rojos/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cafes</title>
-      <link>https://sneakersmexico.online/cafes/</link>
-      <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://sneakersmexico.online/cafes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
+=======
       <title>New Balance</title>
       <link>https://sneakersmexico.online/new-balance/</link>
       <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>https://sneakersmexico.online/new-balance/</guid>
+>>>>>>> 74008b07a0b48032092c17eb544a54afac6a33b3
       <description></description>
     </item>
     
     <item>
+<<<<<<< HEAD
+      <title>Cafes</title>
+      <link>https://sneakersmexico.online/cafes/</link>
+      <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://sneakersmexico.online/cafes/</guid>
+=======
       <title>Fila</title>
       <link>https://sneakersmexico.online/fila/</link>
       <pubDate>Fri, 14 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>https://sneakersmexico.online/fila/</guid>
+>>>>>>> 74008b07a0b48032092c17eb544a54afac6a33b3
+      <description></description>
+    </item>
+    
+    <item>
+<<<<<<< HEAD
+      <title>New Balance</title>
+      <link>https://sneakersmexico.online/new-balance/</link>
+      <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://sneakersmexico.online/new-balance/</guid>
+=======
+      <title>Grises</title>
+      <link>https://sneakersmexico.online/grises/</link>
+      <pubDate>Fri, 14 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://sneakersmexico.online/grises/</guid>
+>>>>>>> 74008b07a0b48032092c17eb544a54afac6a33b3
+      <description></description>
+    </item>
+    
+    <item>
+<<<<<<< HEAD
+      <title>Fila</title>
+      <link>https://sneakersmexico.online/fila/</link>
+      <pubDate>Fri, 14 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://sneakersmexico.online/fila/</guid>
+=======
+      <title>Negros</title>
+      <link>https://sneakersmexico.online/negros/</link>
+      <pubDate>Fri, 14 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://sneakersmexico.online/negros/</guid>
+>>>>>>> 74008b07a0b48032092c17eb544a54afac6a33b3
       <description></description>
     </item>
     
@@ -183,6 +243,27 @@
     </item>
     
     <item>
+<<<<<<< HEAD
+=======
+      <title>Purpuras</title>
+      <link>https://sneakersmexico.online/purpuras/</link>
+      <pubDate>Thu, 13 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://sneakersmexico.online/purpuras/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rojos</title>
+      <link>https://sneakersmexico.online/rojos/</link>
+      <pubDate>Thu, 13 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://sneakersmexico.online/rojos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+>>>>>>> 74008b07a0b48032092c17eb544a54afac6a33b3
       <title>Adidas</title>
       <link>https://sneakersmexico.online/adidas/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
@@ -246,6 +327,18 @@
     </item>
     
     <item>
+<<<<<<< HEAD
+=======
+      <title>Nike</title>
+      <link>https://sneakersmexico.online/nike/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      
+      <guid>https://sneakersmexico.online/nike/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+>>>>>>> 74008b07a0b48032092c17eb544a54afac6a33b3
       <title>Puma</title>
       <link>https://sneakersmexico.online/puma/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
