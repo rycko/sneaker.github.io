@@ -1,7 +1,10 @@
 .navbar{
 	display: block!important;
+	text-align: center
 }
-
-.navbar-toggler .border-0{
-
+.img-fluid{
+	width: 75%;
+}
+.navbar{
+	padding: 0px;
 }
